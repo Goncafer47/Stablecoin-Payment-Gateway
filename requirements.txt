@@ -1,0 +1,5 @@
+rich>=13.7.0
+cryptography>=43.0.1
+requests>=2.32.3
+aiohttp>=3.10.11
+qrcode>=8.0
